@@ -9,12 +9,12 @@ package Controlador;
  *
  * @author demon
  */
-public class MVenta {
+public class DVenta {
     
     private int id_dventa, id_pan, cant_dventa, id_venta, id_eusu;
     private float subtotal_dventa;
     
-    public MVenta(){
+    public DVenta(){
     
     }
 
