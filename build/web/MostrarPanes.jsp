@@ -65,11 +65,25 @@ if(sesionuser.getAttribute("usuario") == null){
                 //el tamaño del vector de los panes que estan adentro
                 for(MPan pan :vecpan){
             %>
-            
-            
+            <p class="img" >
+            <table>
+                <tr>
+                    <td><%=pan.getNom_pan() %></td>
+                    <td><%=pan.getStock_pan()  %>  </td>
+                    <td><%=pan.getPre_pan()  
+                        /*un atributo mas para obtener
+                            la url de la imagen correspondiente del pan*/
+                        %>  </td>
+                </tr></table></p>
+            <%}%>
         </section>
         <section class="hide" >
             
+        </section>
+        <section class="menu" >
+            <a href="MostrarPanes.jsp" >Mostrar todos los Panes</a>
+            <a href="AgregarPan1.jsp" >Agregar al Carrito de Compras</a>
+            <a href="CerrarSesion" >Cerrar Sesión</a>
         </section>
         <footer class="footer" >
             <p>Desarrollado por demoñoño </p>
