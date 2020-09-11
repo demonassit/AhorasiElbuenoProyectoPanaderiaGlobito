@@ -4,19 +4,30 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/src/java/Controlador/MVenta.java</file>
-            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/src/java/Controlador/Conexion.java</file>
             <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/src/java/Controlador/DVenta.java</file>
+            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/src/java/Servlet/FinalizarCompra.java</file>
+            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/src/java/Servlet/AgregarPanCarrito.java</file>
+            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/web/Regsitro.jsp</file>
+            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/web/MostrarCarritoPanes.jsp</file>
+            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/src/java/Controlador/CPan.java</file>
+            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/web/index.html</file>
+            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/web/js/anima.js</file>
+            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/web/css/style.css</file>
+            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/web/MostrarPanes.jsp</file>
+            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/src/java/Controlador/MPan.java</file>
+            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/web/AgregarPan2.jsp</file>
+            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/src/java/Controlador/Conexion.java</file>
+            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/web/Mensaje.jsp</file>
             <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/web/Errores.jsp</file>
+            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/web/AgregarPan1.jsp</file>
             <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/src/java/Controlador/MUsuario.java</file>
             <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/src/java/Controlador/EUsuario.java</file>
             <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/src/java/Servlet/VerificarUsuario.java</file>
             <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/src/java/Controlador/CSaborPan.java</file>
-            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/src/java/Controlador/CPan.java</file>
-            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/web/index.html</file>
+            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/src/java/Servlet/RegistrarUsuario.java</file>
             <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/web/inicio.jsp</file>
-            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/web/js/anima.js</file>
-            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/web/css/style.css</file>
-            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/src/java/Controlador/MPan.java</file>
+            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/src/java/Servlet/CerrarSesion.java</file>
+            <file>file:/D:/Proyectos%20Java/ProyectoPanaderiaGlobito/web/CerrarSesion.jsp</file>
         </group>
     </open-files>
 </project-private>

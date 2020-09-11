@@ -24,6 +24,22 @@ public class MUsuario {
     
     //metodo para agregar un nuevo usuario
     
+    public static int GuardarUsuario(MUsuario u){
+        int estado = 0;
+        
+            Connection con = null;
+            PreparedStatement ps = null;
+        try{
+            
+             con = Conexion.getConexion();
+             String q = "insert into MUsuario "
+                     + "(nom_usu, appat_usu, user_usu, pass_usu, priv_usu) "
+                     + "values (?,?,?,?, 0)";
+        }catch(SQLException e){
+        
+        }
+    }
+    
     //metodo para eliminar un usuario
     
     //metodo para actualizar un usuario
